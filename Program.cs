@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
+            Console.WriteLine("RKIS_8");
             Console.WriteLine("RKIS_8");
         }
     }
